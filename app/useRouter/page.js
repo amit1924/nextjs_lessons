@@ -3,6 +3,8 @@
 import React from "react";
 import { useRouter } from "next/navigation";
 
+// http://localhost:3000/useRouter
+
 const Router = () => {
   const router = useRouter();
   const navigate = (page) => {

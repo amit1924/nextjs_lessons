@@ -1,5 +1,6 @@
 "use client";
 
+//  for dynamic routes = folder\[folder]
 //http://localhost:3000/dynamicRoutes/Amit
 //http://localhost:3000/dynamicRoutes/Arsh
 

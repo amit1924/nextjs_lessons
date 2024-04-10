@@ -3,7 +3,7 @@
 import React from "react";
 
 // http://localhost:3000/catchAllRoutes/city/rollno/name/class
-
+// folder\[...subfolder]
 const Student = ({ params }) => {
   return (
     <div>

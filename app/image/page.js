@@ -2,6 +2,8 @@ import React from "react";
 import Image from "next/image";
 import MetaImage from "@/public/meta.jpg";
 
+// http://localhost:3000/image
+
 const ImagePage = () => {
   return (
     <div>

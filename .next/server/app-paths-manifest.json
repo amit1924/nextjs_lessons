@@ -1,5 +1,8 @@
 {
   "/about/page": "app/about/page.js",
-  "/addnewuser/page": "app/addnewuser/page.js",
-  "/backend/api/postmethod/route": "app/backend/api/postmethod/route.js"
+  "/server/page": "app/server/page.js",
+  "/useRouter/page": "app/useRouter/page.js",
+  "/(ignoreRoutes)/register/page": "app/(ignoreRoutes)/register/page.js",
+  "/layout/loginLayout/loginuser/page": "app/layout/loginLayout/loginuser/page.js",
+  "/usePathname/page": "app/usePathname/page.js"
 }

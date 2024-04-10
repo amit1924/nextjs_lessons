@@ -1,5 +1,7 @@
 "use client";
 
+// http://localhost:3000/addnewuser
+
 import React, { useState } from "react";
 
 const AddNewUser = () => {

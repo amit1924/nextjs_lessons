@@ -1,5 +1,6 @@
 "use client";
 
+// http://localhost:3000/client
 import React from "react";
 
 const Client = () => {

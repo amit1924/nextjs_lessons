@@ -1,4 +1,6 @@
 import React from "react";
+
+// http://localhost:3000/fonts
 import { Oswald } from "next/font/google"; // Corrected import statement
 
 const oswald = Oswald({ subsets: ["latin"], weight: "700" });

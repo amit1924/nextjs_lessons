@@ -5,3 +5,5 @@ const Register = () => {
 };
 
 export default Register;
+
+// http://localhost:3000/register

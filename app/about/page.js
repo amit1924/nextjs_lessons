@@ -7,3 +7,5 @@ const About = () => {
 };
 
 export default About;
+
+// http://localhost:3000/about

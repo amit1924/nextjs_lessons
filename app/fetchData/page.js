@@ -1,5 +1,7 @@
 "use client";
 
+// http://localhost:3000/fetchData
+
 import React from "react";
 import { useState, useEffect } from "react";
 
