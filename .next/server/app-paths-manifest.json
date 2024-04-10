@@ -1,0 +1,5 @@
+{
+  "/about/page": "app/about/page.js",
+  "/addnewuser/page": "app/addnewuser/page.js",
+  "/backend/api/postmethod/route": "app/backend/api/postmethod/route.js"
+}
